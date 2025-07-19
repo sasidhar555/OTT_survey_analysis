@@ -1,0 +1,51 @@
+ID,Age,Gender,Preferred Platform,Daily Usage (hrs),Favourite Genre,Subscription Type,Affects Academics (Yes/No)
+1,20,Male,Netflix,2.0,Action,Paid,No
+2,19,Female,Amazon Prime,1.5,Drama,Paid,Yes
+3,21,Male,Hotstar,3.0,Sports,Free,Yes
+4,22,Female,Netflix,0.5,Romance,Paid,No
+5,20,Male,YouTube,2.5,Comedy,Free,No
+6,18,Female,Netflix,1.2,Thriller,Shared,Yes
+7,19,Male,Amazon Prime,3.5,Horror,Paid,Yes
+8,21,Female,Hotstar,1.8,Reality Shows,Free,No
+9,20,Male,YouTube,4.0,Tech,Free,No
+10,22,Female,Netflix,2.3,Crime,Shared,Yes
+11,18,Female,Amazon Prime,1.0,Action,Paid,No
+12,20,Male,Netflix,2.2,Drama,Paid,Yes
+13,19,Female,Hotstar,3.1,Sports,Free,Yes
+14,21,Male,YouTube,2.7,Romance,Shared,No
+15,22,Female,Netflix,1.6,Comedy,Paid,No
+16,19,Male,Amazon Prime,1.9,Thriller,Shared,Yes
+17,18,Female,Netflix,2.5,Horror,Paid,Yes
+18,20,Male,Hotstar,3.0,Reality Shows,Free,No
+19,21,Female,Netflix,2.1,Tech,Shared,No
+20,22,Male,YouTube,4.0,Crime,Free,Yes
+21,20,Male,Netflix,2.6,Action,Paid,Yes
+22,19,Female,Amazon Prime,1.4,Drama,Shared,No
+23,21,Male,Hotstar,2.9,Sports,Free,Yes
+24,22,Female,YouTube,3.2,Romance,Free,No
+25,18,Male,Netflix,1.3,Comedy,Shared,No
+26,20,Female,Netflix,2.7,Thriller,Paid,Yes
+27,21,Male,YouTube,3.5,Horror,Shared,Yes
+28,19,Female,Amazon Prime,1.8,Reality Shows,Paid,No
+29,22,Male,Hotstar,3.6,Tech,Free,Yes
+30,20,Female,YouTube,2.2,Crime,Shared,No
+31,22,Female,Hotstar,3.8,Romance,Shared,No
+32,18,Male,YouTube,2.2,Tech,Shared,Yes
+33,21,Male,Hotstar,3.9,Thriller,Paid,No
+34,22,Male,Hotstar,0.6,Action,Paid,No
+35,21,Female,YouTube,1.8,Sports,Free,No
+36,21,Female,Hotstar,2.4,Sports,Free,No
+37,20,Female,YouTube,2.0,Tech,Free,Yes
+38,22,Female,Netflix,1.7,Comedy,Free,No
+39,22,Female,YouTube,3.5,Horror,Paid,Yes
+40,19,Female,YouTube,3.9,Sports,Paid,Yes
+41,21,Male,Netflix,3.5,Horror,Shared,Yes
+42,21,Female,Netflix,2.4,Tech,Shared,No
+43,18,Female,Amazon Prime,2.7,Tech,Free,No
+44,20,Male,Netflix,1.5,Romance,Free,No
+45,18,Female,Netflix,4.5,Thriller,Paid,No
+46,22,Male,Amazon Prime,1.1,Crime,Shared,Yes
+47,19,Female,Netflix,2.0,Drama,Paid,No
+48,20,Male,Hotstar,3.3,Comedy,Shared,Yes
+49,22,Female,Hotstar,0.8,Tech,Free,No
+50,20,Male,YouTube,2.8,Thriller,Paid,No
